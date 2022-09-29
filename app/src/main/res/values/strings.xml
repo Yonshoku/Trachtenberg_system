@@ -1,0 +1,6 @@
+<!--suppress ALL -->
+<resources>
+    <string name="app_name">Trachtenberg system</string>
+    <string name="practice_done_examples">0 / 20</string>
+    <string name="practice_example">20221124 × 11</string>
+</resources>
